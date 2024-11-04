@@ -1,9 +1,9 @@
 Docker
-
+==========================================================
 
 Lab 1: Creating an EC2 Instance in AWS and Installing Docker
 
-Task 3: Installing Docker on Ubuntu 18.04 operating system 
+Task 1: Installing Docker on Ubuntu 22.04 operating system 
 
 sudo hostnamectl set-hostname docker
 sudo su
