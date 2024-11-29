@@ -184,7 +184,7 @@ docker run -d --network ct-bridge -p 80:80 ct-wordpress:v1
 docker ps
 
 
-Self Exercise 1: Pushing the image to DockerHub
+Exercise 1: Pushing the image to DockerHub
 
 # create dockerhub account once you login create repository then login into your terminal
 docker login -u martuj123
@@ -204,7 +204,7 @@ docker image ls
 docker image ls -a
 
 
-Self Exercise 2: Docker Lifecycle 
+Exercise 2: Docker Lifecycle 
 
 docker pull httpd
 docker image ls
@@ -242,7 +242,7 @@ docker image rm < replace image id/name > < replace image id/name >
 docker image ls
 docker image ls -a
 
-Self Exercise 3: Volume Mounting with Docker Containers
+Exercise 3: Volume Mounting with Docker Containers
  
 Task 1: Creating a new docker volume and inspecting containers
 
